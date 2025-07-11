@@ -7,9 +7,13 @@ The goal is to help businesses evaluate campaign effectiveness, understand user 
 
 ⚡️ Features
 ✅ KPI Dashboard — Displays total impressions, clicks, spend, conversion rate (CTR), and cost‑per‑click (CPC).
+
 ✅ Trend Analysis — Shows how impressions and clicks evolve over time.
+
 ✅ Campaign Efficiency — Evaluates campaign performance with metrics like CTR and CPC.
+
 ✅ Demographic Insights — Shows spend and conversion distribution across different age groups.
+
 ✅ Top Performers — Identifies the best campaigns and their conversion outcomes.
 
 🛠️ Tools & Technologies
@@ -24,6 +28,7 @@ DAX — Custom Measures and KPIs
 GitHub — Version Control & Project Hosting
 
 📊 Dashboard Insights
+
 ✅ Total Impressions vs Clicks trend for campaign performance evaluation
 
 ✅ Comparison of CTR and CPC across campaigns
@@ -35,17 +40,14 @@ GitHub — Version Control & Project Hosting
 ✅ Final campaign performance review (approved conversions)
 
 👇 Project Structure
-bash
-Copy
-Edit
-FUTURE_DS_02/
-├─ data/
-│  └─ data.csv                      # Source dataset
-├─ Power BI/
-│  └─ Facebook Ad Campaign.pbix    # Final Power BI Dashboard
-├─ Screenshots/
-│  └─ Social Media Campaign Insights.png           # Dashboard snapshot
-├─ README.md                        # Project Documentation
+FUTURE_DS_02
+ data.csv                      # Source dataset
+
+ Facebook Ad Campaign.pbix    # Final Power BI Dashboard
+
+ Social Media Campaign Insights.png           # Dashboard snapshot
+
+ README.md                        # Project Documentation
 🚀 Learnings & Outcomes
 Developed proficiency in Power BI for marketing analytics.
 
